@@ -1,5 +1,5 @@
 # Business Management System (Frontend)
-
+video demo - https://drive.google.com/file/d/1pEQIP_HrD4x3FuE59FeU8XdvEs4_nLUc/view?usp=drivesdk
 A comprehensive React + TailwindCSS frontend for a Business Management System backed by PostgreSQL exposed via PostgREST.
 
 ## 🚀 Features
